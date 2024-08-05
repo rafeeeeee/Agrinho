@@ -1,0 +1,44 @@
+:root {
+
+    --cor-principal: #ffffff;
+
+}
+body {
+    background-color: rgb(144, 255, 159);
+} 
+h1 {
+    color: black;
+    border: 15px;
+    border-color: #606060(0, 0, 0);
+    font-size: 50px;
+}
+
+
+div.a {
+    text-align: center;
+    margin-top: 20px; 
+    
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-left: 15px;
+}
+
+p {
+    font-size: 20px     ; 
+    line-height: 1.5; 
+    margin-left: 30px;
+
+}
+
+#br {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 30px;
+}
+
+footer {
+    
+}
